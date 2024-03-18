@@ -807,11 +807,10 @@ fill: transparent;
         color: #4d5ae5;
 }
 
-.policy:checked + .policy-span {
-    background-color: #404bbf;
+.policy-input:checked+.policy>.policy-span {
+    background-color: #404BBF;
     border: none;
-    fill: #F4F4FD;
-}
+    fill: #F4F4FD;}
 
 .btn-send{
     display: block;

@@ -807,7 +807,7 @@ fill: transparent;
         color: #4d5ae5;
 }
 
-.policy-input:checked + .policy-span {
+.policy:checked + .policy-span {
     background-color: #404bbf;
     border: none;
     fill: #F4F4FD;

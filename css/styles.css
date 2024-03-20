@@ -669,13 +669,13 @@ border: none;
     border: none;
 }
 
-/* .btn-modal:focus .icon-close-moda{
+.btn-modal:focus .icon-close-moda{
 fill: #ffffff;
 }
 
 .btn-modal:hover .icon-close-moda {
     fill: #ffffff;
-} */
+}
 
 
 .icon-close-modal:hover{
